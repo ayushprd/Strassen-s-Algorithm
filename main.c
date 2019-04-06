@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int findpower(int);
+int strassen(int *atemp, int *btemp, int *C, int m, int n);
+
 
 int main() {
 
